@@ -19,4 +19,4 @@
 * Psycopg2 — это Python-адаптер для PostgreSQL, написанный на языке C с использованием libpq (официальной клиентской библиотеки PostgreSQL)
 
 
-### [Cсылка на Проект 1](https://github.com/Amina313/Project-2/blob/main/Project_2_sql.ipynb)
+### [Cсылка на Проект 2](https://github.com/Amina313/Project-2/blob/main/Project_2_sql.ipynb)
